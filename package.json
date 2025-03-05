@@ -1,0 +1,31 @@
+{
+  "name": "mvc-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node app.js", 
+    "dev":"nodemon app.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karmaDorji-del/MVC-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karmaDorji-del/MVC-framework/issues"
+  },
+  "homepage": "https://github.com/karmaDorji-del/MVC-framework#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
+
+
